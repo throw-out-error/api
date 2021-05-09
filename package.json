@@ -43,7 +43,7 @@
         "@tinyhttp/cors": "^1.1.0",
         "@tinyhttp/logger": "^1.1.0",
         "body-parser": "^1.19.0",
-        "dotenv": "^8.2.0",
+        "dotenv": "^9.0.0",
         "monk": "^7.3.2",
         "nanoid": "^3.1.20",
         "ts-postgres": "^1.1.3",
